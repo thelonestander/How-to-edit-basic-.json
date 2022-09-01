@@ -1,0 +1,43 @@
+[
+  {
+    "id": "test_rifle",
+    "copy-from": "rifle_semi",
+    "type": "GUN",
+    "name": { "str": "TEST RIFLE" },
+    "//": "this will not be seen in game this is just for the modder",
+    "description": "This is where you will descibe what the gun is",
+    "weight": "1 g",
+    "volume": "1 L",
+    "price": 1,
+    "price_postapoc": 1,
+    "to_hit": -1,
+    "bashing": 1,
+    "material": [ "steel", "plastic" ],
+    "symbol": "(",
+    "color": "dark_gray",
+    "ammo": "223",
+    "dispersion": 1,
+    "durability": 1,
+    "min_cycle_recoil": 1000,
+    "magazines": [
+      [
+        "223",
+        [
+          "stanag30",
+          "stanag5",
+          "stanag10",
+          "stanag20",
+          "stanag40",
+          "stanag50",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150",
+          "survivor223mag"
+        ]
+      ]
+    ]
+  }
+]

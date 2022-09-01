@@ -1,0 +1,28 @@
+                                                     How to edit basic .json files! 
+
+
+  Hey guys! So you want to make a weapon, or a cool backpack, or maybe fix a missing tile in your game. Well don't worry I will try to 
+show you how! 
+
+  Okay so number one, you have a basic text editor like notepad++ or any other text editor you may use. 
+
+>JSON FILE #1   So lets start with something easy. Lets say you want to make a new gun. 
+
+1.) First always have an idea of what your gun is going to be. An AR style? a shotgun? Look for an example on BN github. 
+at the top left of the screen you'll see a search bar. We will be doing a new AR style rifle. What caliber is your rifle going
+to be? For this gun we will do a .223 style rifle. 
+
+(note- the file structure for the guns in BN is based on caliber to make it easy.)
+
+  So we are going to look at .233.json located in this mod and right click and open with the text editor.
+
+  In this file is one gun that is currently on BN. This is just for your reference to look at when making your new gun.
+Leave this open while you make your new gun as well. 
+
+  Now right click the example .json #1 and You'll notice this gun has no stats or everything is at one. This is for you to tweak and mess
+around with. 
+
+Now look at EXAMPLE #2
+
+  This is a gun that I just made using the template from example #1 Now you try! I usually look up the stats of the weapon I'm trying to,
+make. So I looked up a wood furniture AR. That's where I got the weight from, and the other stats. 

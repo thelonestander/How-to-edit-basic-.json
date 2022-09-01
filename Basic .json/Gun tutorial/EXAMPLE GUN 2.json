@@ -1,0 +1,43 @@
+[
+  {
+    "id": "Survival_ar_15",
+    "copy-from": "rifle_semi",
+    "type": "GUN",
+    "name": { "str": "Survival AR15" },
+    "//": "Im still leaving this empty becuase I have no message to tell the other modders that may look at this.",
+    "description": "This rifle is made of a wood stock and is heavier then the standard AR15.",
+    "weight": "4000 g",
+    "volume": "2 L",
+    "price": 100000,
+    "price_postapoc": 6000,
+    "to_hit": -1,
+    "bashing": 14,
+    "material": [ "steel", "wood" ],
+    "symbol": "(",
+    "color": "dark_gray",
+    "ammo": "223",
+    "dispersion": 200,
+    "durability": 9,
+    "min_cycle_recoil": 1350,
+    "magazines": [
+      [
+        "223",
+        [
+          "stanag30",
+          "stanag5",
+          "stanag10",
+          "stanag20",
+          "stanag40",
+          "stanag50",
+          "stanag60",
+          "stanag60drum",
+          "stanag90",
+          "stanag100",
+          "stanag100drum",
+          "stanag150",
+          "survivor223mag"
+        ]
+      ]
+    ]
+  }
+]
